@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">androidProje_2</string>
+    <string name="yenikisiad">isim soyisim</string>
+    <string name="kisicinsiyet">cinsiyet</string>
+    <string name="calismadurumu">çalişma durumu</string>
+    <string name="yenikisiadedittext">isim soyisim</string>
+    <string name="yenikisiKayıt">KAYDET</string>
+    <string name="erkek">erkek</string>
+    <string name="kadin">kadın</string>
+    <string name="calisiyor">calisiyor</string>
+    <string name="calismiyor">calismiyor</string>
+    <string name="eksikbilgi">eksik yada yanlış girdi</string>
+    <string name="kisiSil">Kişiyi Sil</string>
+
+</resources>
